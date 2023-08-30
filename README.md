@@ -10,7 +10,7 @@
  | Creator                  | GPT Model           | Estimated Monthly Earnings (€) | Source (estimated)                      |
 | ------------------------ | ------------------- | ----------------------------- | ---------------------------- |
 | RayVentura               | ShortGPT            | €0.45 - €7                    | Socialblade (@AskRedditors)  |
-| Su77ungr                 | FreeShortGPT        | €21  -  €341                    | Socialblade (@) |
+| Su77ungr                 | FreeShortGPT        | €24  -  €389                    | Socialblade (@UnsoundFlash) |
 
 </div>
 
