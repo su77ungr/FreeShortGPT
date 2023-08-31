@@ -1,6 +1,6 @@
 <div align="center">
 
-# Big Tech is stealing people's time: Make them lose their own
+# An approach to reverse engineer high-frequency media persuasion 
 </div>
 
 <div align="center">
