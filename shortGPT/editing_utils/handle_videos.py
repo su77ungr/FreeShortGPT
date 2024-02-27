@@ -53,7 +53,7 @@ def extract_random_clip_from_video(video_url, video_duration, clip_duration , ou
     (
         ffmpeg
         .input(video_url, ss=start_time, t=clip_duration)
-        .output(output_file, codec="libx264", preset="ultrafast")
+        .output(output_file, codec="libx264", preset="ultrafast", r=30)
         .run()
     )
     if not os.path.exists(output_file):
